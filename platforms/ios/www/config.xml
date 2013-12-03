@@ -12,5 +12,5 @@
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
 
-    <gap:plugin name="com.phonegap.plugins.PushPlugin"/>
+    <gap:plugin name="com.phonegap.plugins.pushplugin" />
 </widget>
